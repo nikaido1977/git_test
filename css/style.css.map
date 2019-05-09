@@ -1,12 +1,7 @@
 {
 "version": 3,
-<<<<<<< HEAD
 "mappings": "AAEA;oDACoD",
 "sources": ["scss/base/_base.scss"],
-=======
-"mappings": "AAAA,mBAAmB",
-"sources": ["style.scss"],
->>>>>>> master
 "names": [],
 "file": "style.css"
 }
